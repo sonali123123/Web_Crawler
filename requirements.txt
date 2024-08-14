@@ -1,0 +1,5 @@
+fpdf2
+bs4==0.0.2
+html2text==2020.1.16
+azure-cognitiveservices-search-websearch
+msrest
